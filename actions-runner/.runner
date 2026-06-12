@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MEMORIA",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus11.actions.githubusercontent.com/BTag9cwDHXjbDejdFFyDO37q8iLQmdRqb9f6AQvToXQiOqJ3qY/",
+  "gitHubUrl": "https://github.com/RadenFR/Advanced-Mobile-Automation-Test",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}

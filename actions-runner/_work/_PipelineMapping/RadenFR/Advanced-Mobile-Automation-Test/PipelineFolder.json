@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "RadenFR/Advanced-Mobile-Automation-Test",
+  "pipelineDirectory": "Advanced-Mobile-Automation-Test",
+  "workspaceDirectory": "Advanced-Mobile-Automation-Test\\Advanced-Mobile-Automation-Test",
+  "repositories": {
+    "RadenFR/Advanced-Mobile-Automation-Test": {
+      "repositoryPath": "Advanced-Mobile-Automation-Test\\Advanced-Mobile-Automation-Test",
+      "lastRunOn": "06/12/2026 14:59:13 +07:00"
+    }
+  },
+  "lastRunOn": "06/12/2026 14:59:13 +07:00"
+}
