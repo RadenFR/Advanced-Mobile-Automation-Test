@@ -5,7 +5,7 @@
             <class name="tests.LoginTest"/>
         </classes>
     </test>
-    <test name="LoginTest">
+    <test name="AddToCartTest">
         <classes>
             <class name="tests.AddToCartTest"/>
         </classes>
